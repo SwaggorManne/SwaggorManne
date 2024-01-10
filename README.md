@@ -1,4 +1,5 @@
-<img align="center" width="100%" src="https://github.com/rochesebastien/rochesebastien/blob/main/projects.png">
+<img align="center" width="100%" src="![image](https://github.com/SwaggorManne/SwaggorManne/assets/153170741/d7926369-8146-45b2-92b7-ebd59bce2cdc)
+">
 
 ## 🚀 About Me
 Hi! I have just finished my degree in information systems design, I have been passionate about computer development, particularly the web, since my post-baccalaureate years. Driven by creativity and curiosity, I want to become a web developer and deepen my experience in this field. That's why I continue on a full stack master web developer for the next 2 years.
