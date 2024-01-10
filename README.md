@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://www.petmag.com.br/app/uploads/petteca/famosos/8588/crazy-frog-01.jpg">
+<img align="center" width="100%" src="https://staticg.sportskeeda.com/editor/2023/06/49319-16863197046560-1920.jpg">
 
 ## 🚀 About Me
 Hi! I have just finished my degree in information systems design, I have been passionate about computer development, particularly the web, since my post-baccalaureate years. Driven by creativity and curiosity, I want to become a web developer and deepen my experience in this field. That's why I continue on a full stack master web developer for the next 2 years.
