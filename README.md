@@ -16,7 +16,7 @@ I love programating guys.
 
 - Other stacks I had to deal with  
  
-[![My Skills](https://skillicons.dev/icons?i=py,java,flutter,gitlab,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,git)](https://skillicons.dev)
 
 - My softwares or websites
 
