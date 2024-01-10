@@ -7,7 +7,7 @@ I love programating guys.
 ## 🛠 Skills
 - Web development technologies that I used
 
-[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css)](https://skillicons.dev)
 
 
 - Different databases with which I have already worked  
