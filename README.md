@@ -20,7 +20,7 @@ I love programating guys.
 
 - My softwares or websites
 
-[![My Skills](https://skillicons.dev/icons?i=ps,figma,androidstudio,vscode,stackoverflow,github,discord,codepen,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,androidstudio,vscode,stackoverflow,github,discord,eclipse,blender)](https://skillicons.dev)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sebastien-roche.fr/)
